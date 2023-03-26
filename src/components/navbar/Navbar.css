@@ -1,0 +1,23 @@
+.navlinks {
+    margin-left: 300px;
+    display: flex;
+  }
+  
+  .logo {
+    flex-grow: 1;
+    cursor: pointer;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 50px;
+  }
+  
+  .link:hover {
+    color: yellow;
+    border-bottom: 1px solid white;
+  }
+  

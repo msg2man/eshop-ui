@@ -1,0 +1,41 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .signup-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .lock-icon {
+    font-size: 40px;
+    color: white;
+  }
+  
+  .signin-link {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .signin-link a {
+    text-decoration: none;
+  }
+   */
+  
