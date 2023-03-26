@@ -105,7 +105,7 @@ function Navbar() {
         <ShoppingCartIcon />
         </IconButton>
         <Typography variant="h4" className="logo">
-          UpGrad E-Shopee
+          UpGrad E-Shop
         </Typography>
         {/* <Search>
           <SearchIcon />

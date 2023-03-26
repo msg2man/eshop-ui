@@ -39,6 +39,13 @@ const Product = () => {
 		const productId = event.currentTarget.dataset.productid;
         const response = deleteProduct(setErrorMsg, productId, setProductsList);
         console.log("Inside delete handler response id ", response);
+		if (errorMsg) {
+			console.log("Got error in delete product ");
+		}
+		else {
+			alert("Product deleted sucessfully. Taking to product page.");
+			navigate('/Product');
+		}
         window.location.reload();
    };
 
